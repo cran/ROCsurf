@@ -1,7 +1,7 @@
 Package: ROCsurf
 Type: Package
 Title: ROC Surface Analysis Under the Three-Class Problems
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Ertan", "Akgenç",,"statistician.ertan@gmail.com",role=c("cre","aut","cph"),
         comment = "https://www.researchgate.net/profile/Ertan-Akgenc"),
         person("Coşkun", "Kuş",,"coskunkus@gmail.com",role=c("aut","ctb"),
@@ -19,9 +19,9 @@ Encoding: UTF-8
 RoxygenNote: 7.3.2
 Language: en-US
 NeedsCompilation: no
-Packaged: 2024-07-17 16:12:34 UTC; stati
+Packaged: 2024-07-23 10:26:09 UTC; stati
 Author: Ertan Akgenç [cre, aut, cph]
     (https://www.researchgate.net/profile/Ertan-Akgenc),
   Coşkun Kuş [aut, ctb] (https://www.selcuk.edu.tr/Person/Detail/coskun)
 Repository: CRAN
-Date/Publication: 2024-07-21 09:00:05 UTC
+Date/Publication: 2024-07-24 18:10:01 UTC
